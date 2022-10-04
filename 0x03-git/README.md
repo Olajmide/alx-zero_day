@@ -1,1 +1,2 @@
-my second commit
+hi
+My redme is up to date now
